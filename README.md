@@ -1,61 +1,117 @@
-# Swiggy Power BI Dashboard
+# 📊 E-Commerce Sales Analysis Dashboard
 
-## Project Overview
+## 📌 Project Overview
 
-This project is an interactive Power BI dashboard created to analyze Swiggy restaurant data and generate useful business insights.
+This project is an interactive **E-Commerce Sales Analysis Dashboard** developed using **Microsoft Power BI**. The dashboard analyzes e-commerce sales data and presents key business insights through interactive visualizations, charts, KPIs, and filters.
 
-## Tools Used
+The objective of this project is to understand sales performance, product performance, customer behavior, and regional sales trends to support data-driven decision-making.
 
-- Power BI Desktop
+---
+
+## 🛠️ Tools & Technologies Used
+
+- Microsoft Power BI
 - Power Query
 - DAX
-- Data Cleaning
+- Microsoft Excel / CSV
+- Data Cleaning & Transformation
 - Data Visualization
 
-## Dataset
+---
 
-The dataset contains restaurant-related information such as:
+## 📂 Dataset
 
-- Restaurant Name
-- Location
-- Food Type
-- Rating
-- Price
-- Delivery Information
+The project uses e-commerce sales data containing information related to orders, products, customers, sales, quantity, profit, and geographical regions.
 
-## Dashboard Features
+### Files Included
+
+- `Orders.csv` – Contains order-related data.
+- `Details.csv` – Contains product and sales-related details.
+- `Ecommerce Sales Analysis Dashboard.pbix` – Power BI dashboard project file.
+- `Dashboard.png` – Dashboard preview.
+
+---
+
+## 📊 Dashboard Features
 
 The dashboard provides analysis of:
 
-- Total Restaurants
-- Average Rating
-- Average Price
-- Restaurant Distribution
-- Food Categories
-- Restaurant Ratings
-- Location-wise Analysis
-- Interactive Filters and Slicers
+- 💰 Total Sales
+- 📈 Sales Performance
+- 📦 Quantity Sold
+- 💵 Profit Analysis
+- 🛍️ Product Performance
+- 👥 Customer Analysis
+- 🌎 Regional Sales Analysis
+- 📅 Sales Trends
+- 🏷️ Category/Sub-category Analysis
+- 🔎 Interactive Filters and Slicers
 
-## Data Preparation
+---
 
-The data was cleaned and transformed using Power Query before creating the dashboard.
+## 🔄 Data Preparation
 
-## DAX
+The raw data was prepared using **Power Query**.
 
-DAX measures were created to calculate important KPIs and analytical metrics.
+The data preparation process included:
 
-## Dashboard Preview
+1. Importing the dataset into Power BI.
+2. Cleaning the raw data.
+3. Removing unnecessary or duplicate records.
+4. Checking and correcting data types.
+5. Transforming required columns.
+6. Creating relationships between tables.
+7. Preparing the data for visualization.
 
-![Power BI Dashboard](Dashboard.png)
+---
 
-## Power BI Project File
+## 🧮 DAX
 
-[Download PBIX File](Swiggy_Dashboard.pbix)
+DAX (Data Analysis Expressions) was used to create calculated measures and perform business calculations.
 
-## Live Dashboard
+Examples include:
+
+- Total Sales
+- Total Profit
+- Total Quantity
+- Average Sales
+- Other KPI calculations
+
+---
+
+## 📈 Dashboard Preview
+
+![E-Commerce Sales Dashboard](Dashboard.png)
+
+---
+
+## 📁 Project Files
+
+### Power BI Project
+
+[Ecommerce Sales Analysis Dashboard.pbix](Ecommerce%20Sales%20Analysis%20Dashboard.pbix)
+
+### Dataset
+
+[Orders.csv](Orders.csv)
+
+[Details.csv](Details.csv)
+
+---
+
+## 🌐 Live Power BI Dashboard
 
 [View Power BI Dashboard](YOUR_POWER_BI_LINK)
 
-## Conclusion
 
-The dashboard provides an interactive way to explore E-Commerce sales data and identify patterns based on sales, products, customers, regions, and other buisness metrics. 
+
+## 💡 Key Insights
+
+The dashboard helps users understand:
+
+- Overall sales and profit performance.
+- Products and categories contributing to sales.
+- Regional sales distribution.
+- Changes in sales over time.
+- Customer and order-related patterns.
+- Areas that

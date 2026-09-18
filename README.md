@@ -58,4 +58,4 @@ DAX measures were created to calculate important KPIs and analytical metrics.
 
 ## Conclusion
 
-The dashboard provides an interactive way to explore restaurant data and identify patterns based on ratings, pricing, food categories, and locations.
+The dashboard provides an interactive way to explore E-Commerce sales data and identify patterns based on sales, products, customers, regions, and other buisness metrics. 

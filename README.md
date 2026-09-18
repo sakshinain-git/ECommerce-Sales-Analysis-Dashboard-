@@ -114,4 +114,4 @@ The dashboard helps users understand:
 - Regional sales distribution.
 - Changes in sales over time.
 - Customer and order-related patterns.
-- Areas that
+- Areas that can further be analyzed for business improvement
